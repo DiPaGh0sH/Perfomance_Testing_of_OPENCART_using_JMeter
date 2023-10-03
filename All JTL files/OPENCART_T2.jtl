@@ -1,0 +1,13 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1695824795811,2362,https://www.opencart.com/index.php?route=common/home,200,OK,Thread Group 1-1,text,true,,24468,525,1,1,https://www.opencart.com/index.php?route=common%2Fhome,2355,0,633
+1695824798178,624,https://www.opencart.com/index.php?route=cms/feature,200,OK,Thread Group 1-1,text,true,,32112,585,1,1,https://www.opencart.com/index.php?route=cms%2Ffeature,612,0,0
+1695824798803,905,https://www.opencart.com/index.php?route=marketplace/extension,200,OK,Thread Group 1-1,text,true,,62769,595,1,1,https://www.opencart.com/index.php?route=marketplace%2Fextension,580,0,0
+1695824799709,642,https://www.opencart.com/index.php?route=cms/company,200,OK,Thread Group 1-1,text,true,,25312,585,1,1,https://www.opencart.com/index.php?route=cms%2Fcompany,641,0,0
+1695824800352,504,https://www.opencart.com/index.php?route=account/login,200,OK,Thread Group 1-1,text,true,,12564,587,2,2,https://www.opencart.com/index.php?route=account%2Flogin,502,0,0
+1695824795775,5037,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,157225,2877,2,2,null,4690,44,633
+1695824800773,4456,https://www.opencart.com/index.php?route=common/home,200,OK,Thread Group 1-2,text,true,,24468,525,1,1,https://www.opencart.com/index.php?route=common%2Fhome,4453,0,202
+1695824805231,2210,https://www.opencart.com/index.php?route=cms/feature,200,OK,Thread Group 1-2,text,true,,32107,585,1,1,https://www.opencart.com/index.php?route=cms%2Ffeature,2142,0,0
+1695824807442,4952,https://www.opencart.com/index.php?route=marketplace/extension,200,OK,Thread Group 1-2,text,true,,62769,595,1,1,https://www.opencart.com/index.php?route=marketplace%2Fextension,1877,0,0
+1695824812396,1245,https://www.opencart.com/index.php?route=cms/company,200,OK,Thread Group 1-2,text,true,,25305,585,1,1,https://www.opencart.com/index.php?route=cms%2Fcompany,1236,0,0
+1695824813642,1456,https://www.opencart.com/index.php?route=account/login,200,OK,Thread Group 1-2,text,true,,12564,587,1,1,https://www.opencart.com/index.php?route=account%2Flogin,1447,0,0
+1695824800769,14319,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-2,,true,,157213,2877,1,1,null,11155,11,202
